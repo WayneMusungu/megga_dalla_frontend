@@ -1,0 +1,16 @@
+.user-icon {
+    font-size: 1.2em;
+}
+.navbar{
+    min-height: 7vh;
+    background: #023E8A;
+    color: #FFCC33;
+}
+#nav-link{
+    color: #FFCC33;
+}
+.navbar-image{
+    height: 30px;
+    border-radius: 50%;
+    
+}
