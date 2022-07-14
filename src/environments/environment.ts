@@ -2,9 +2,17 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+// export const environment = {
+//   production: false,
+//   apiUrl: 'http://localhost:8000/api',
+//   jwtLogin: 'login/',
+//   jwtRefresh: 'token/refresh/',
+// };
+
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:8000/api',
+  // apiUrl: 'http://localhost:8000/api',
+  apiUrl:'https://mega-dalla.herokuapp.com/api',
   jwtLogin: 'login/',
   jwtRefresh: 'token/refresh/',
 };
