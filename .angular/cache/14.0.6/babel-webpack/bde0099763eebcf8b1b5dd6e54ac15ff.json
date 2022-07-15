@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Userr {\n  constructor(id, email, username, is_vendor, is_customer) {\n    this.id = id;\n    this.email = email;\n    this.username = username;\n    this.is_vendor = is_vendor;\n    this.is_customer = is_customer;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

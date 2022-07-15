@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  // apiUrl: 'http://localhost:8000/api',\n  apiUrl: 'https://mega-dalla.herokuapp.com/api',\n  jwtLogin: 'login/',\n  jwtRefresh: 'token/refresh/'\n};","map":null,"metadata":{},"sourceType":"module"}
