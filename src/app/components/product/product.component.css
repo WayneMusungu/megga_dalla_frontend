@@ -1,13 +1,30 @@
-.product-card {
+/* start product */
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 90vh;
+  }
+  .left{
+    height: 50vh;
     width: 30vw;
-}
-
-.product-img {
+    text-align: center;
+  }
+  .pro-image {
+    height: 80%;
+  }
+  .image{
     height: 100%;
-}
-
-.add-cart-btn {
-    background-color: #CCB353;
-    color: white;
-    border: none;
-}
+    width: 100%;
+    border-radius: 10px;
+  }
+  .adimage{
+    height: 30vh;
+    margin: 10px;
+    border-radius: 10px;
+    width: 12vw;
+  }
+  .btn{
+    margin: 5px;
+  }
+  /* end product */
